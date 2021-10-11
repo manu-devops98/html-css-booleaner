@@ -1,5 +1,5 @@
 body{
-    width: 1200px;
+    width: 1100px;
 }
 .logo{
     background-image: url("../img/pattern.png");
@@ -11,6 +11,7 @@ body{
 
 .titolo{
     font-size: 50px;
+    margin-bottom: 5px;
 }
 
 .scrittore{
@@ -20,7 +21,7 @@ body{
 }
 
 .nome-scrittore{
-    font-size: 20px;
+    font-size: 25px;
     color: lightskyblue;
 }
 
@@ -28,3 +29,9 @@ body{
     color: grey;
     font-size: 15px;
 }
+
+.descrizione-foto{
+    font-size: 20px;
+    margin-top: 2px;
+}
+
