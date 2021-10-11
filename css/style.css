@@ -2,7 +2,7 @@ body{
     width: 1100px;
     margin: auto;
 }
-.logo{
+.sfondo-logo{
     background-image: url("../img/pattern.png");
     background-repeat: repeat;
     background-size: contain;
@@ -10,6 +10,10 @@ body{
     height: 100px;
 }
 
+.logo{
+    width: 250px;
+    margin-top: 30px;
+}
 .titolo{
     font-size: 50px;
     margin-bottom: 5px;
@@ -44,7 +48,9 @@ body{
 .evidenziato{
     background-color: yellow;
 }
-
+.dim-cella{
+    width: 200px;
+}
 .riga-intestazione{
     background-color: lightskyblue;
     color: white;
