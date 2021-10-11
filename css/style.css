@@ -35,3 +35,10 @@ body{
     margin-top: 2px;
 }
 
+.paragrafo{
+    font-size: 25x;
+}
+
+.evidenziato, .lista{
+    background-color: yellow;
+}
