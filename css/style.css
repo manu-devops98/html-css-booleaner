@@ -1,5 +1,6 @@
 body{
     width: 1100px;
+    margin: auto;
 }
 .logo{
     background-image: url("../img/pattern.png");
@@ -28,6 +29,7 @@ body{
 .date{
     color: grey;
     font-size: 15px;
+    margin-bottom: 20px;
 }
 
 .descrizione-foto{
@@ -41,4 +43,16 @@ body{
 
 .evidenziato{
     background-color: yellow;
+}
+
+.riga-intestazione{
+    background-color: lightskyblue;
+    color: white;
+    /* font-size: 10px; */
+    height: 5px;
+    text-align: left;
+}
+
+.bg-table{
+    background-color: lightblue;
 }
