@@ -56,3 +56,24 @@ body{
 .bg-table{
     background-color: lightblue;
 }
+
+.foto-consigliate-one, .foto-consigliate-two{
+    background-image: url("../img/monitor.jpg");
+    background-repeat: no-repeat;
+    height: 200px;
+    margin-top: 10px;
+}
+
+.foto-consigliate-one{
+    background-image: url("../img/monitor.jpg");
+}
+.foto-consigliate-two{
+    background-image: url("../img/graph.jpg");
+}
+
+.titolo-foto{
+  margin-left: 30px;
+  font-size: 25px;
+  font-weight: bold;
+  color: white;
+}
